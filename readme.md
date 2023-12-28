@@ -1,4 +1,4 @@
 
-# Esto es un repositorio de una serie de libros que cuentan la historia de un hacker
+# Esto es un repositorio para las practicas del Bootcamp Big Data, IA & ML Full Stack
 
-**MDR** git lover
+**MDR**
