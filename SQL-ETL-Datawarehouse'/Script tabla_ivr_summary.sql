@@ -43,7 +43,7 @@ FROM `keepcoding.ivr_detail` detail
 LEFT 
 JOIN previous_next_24H
   ON detail.ivr_id = previous_next_24H.ivr_id
-WHERE (module_name = 'IDENTIFICACION' AND customer_phone = 'UNKNOWN'AND billing_account_id <> 'UNKNOWN')
+WHERE ((module_name = 'IDENTIFICACION' OR module_name = 'WELCOME') AND customer_phone = 'UNKNOWN'AND billing_account_id <> 'UNKNOWN')
   OR (module_name = 'WELCOME' AND customer_phone <> 'UNKNOWN'AND billing_account_id <> 'UNKNOWN')
   OR (module_name = 'AVERIA_MASIVA' AND step_name = 'GETINFOMASIVAS.TX')
  ORDER BY detail.ivr_id ASC
