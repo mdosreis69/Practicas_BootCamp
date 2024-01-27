@@ -1,1 +1,15 @@
+La práctica está basada en tablas generadas en Kaggle para una empresa ficticia de comercio electrónico (Looker). 
+Los data sets contienen información sobre clientes, productos, pedidos, logística y eventos web.
+
+Las visualizaciones generadas (dashboards) brindan información sobre las operaciones generales, el nivel de ventas 
+y margen de ganancia, la participación de los clientes y el rendimiento del producto, lo que ayudará en la toma de decisiones estratégicas y 
+la optimización del negocio.
+
+El estudio de los datos abarca los siguientes análisis:  
+- Análisis geoespacial: Mapear y analizar la distribución geográfica de centros de logística y distribución de los productos. 
+- Análisis de ventas: Analizar las ventas, comportamiento de los precios y márgenes de ganancias.
+- Análisis de rendimiento del producto: Analizar el rendimiento del producto por categoría, marca y popularidad.
+- Análisis del cliente: Analizar los datos demográficos de los usuarios, como la edad, género y la ubicación.
+- Análisis del comportamiento del usuario: Analizar el comportamiento del cliente y su experiencia de compra, de acuerdo a los eventos generados 
+  en las transacciones online.
 
