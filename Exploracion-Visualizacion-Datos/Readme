@@ -13,3 +13,5 @@ El estudio de los datos abarca los siguientes análisis:
 - Análisis del comportamiento del usuario: Analizar el comportamiento del cliente y su experiencia de compra, de acuerdo a los eventos generados 
   en las transacciones online.
 
+NOTA: Se anexan capturas adicionales de los dashboards creados, para poder apreciar las visualizaciones con todo el dataset completo sin aplicar reducciones
+con power query (limitacion para cargar archivos > 25 MB en Github).
