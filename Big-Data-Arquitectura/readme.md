@@ -5,4 +5,4 @@ Diseño del DAaaS
   - Arquitectura
   - Operating Model Design and Rollout
   - Desarrollo
-  - Link Diagrama: 
+  - Link Diagrama: https://github.com/mdosreis69/Practicas_BootCamp/blob/main/Big-Data-Arquitectura/diagrama_arquitectura.drawio
