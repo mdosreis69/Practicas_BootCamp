@@ -8,3 +8,6 @@ Diseño del DAaaS
   - Operating Model Design and Rollout
   - Desarrollo
   - Link Diagrama: https://github.com/mdosreis69/Practicas_BootCamp/blob/main/Big-Data-Arquitectura/diagrama_arquitectura.drawio
+
+
+Aunque es opcional intentare enviarte despues un crawler que estoy creando para bajar datos de una pagina de juegos de video, para que me des tu opinion de que tal quedo.
