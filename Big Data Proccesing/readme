@@ -8,7 +8,6 @@ Practica basada en la siguiente estructura:
         • Generar codigo para responder las preguntas
           1. ¿Cuál es el país más “feliz” del 2021 según la data? (considerar que la columna “Ladder score” mayor número más feliz es el país)
           R: Finland 
-
           2. ¿Cuál es el país más “feliz” del 2021 por continente según la data?
           R:Finland - Western Europe
             New Zealand - North America and ANZ
@@ -20,16 +19,12 @@ Practica basada en la siguiente estructura:
             Uzbekistan - Commonwealth of Independent States
             Mauritius - Sub-Saharan Africa
             Nepal - South Asia
-
           3. ¿Cuál es el país que más veces ocupó el primer lugar en todos los años?
           R: Finland y Denwark (empate), cada uno logro 7 veces el primer lugar durante el periodo 2005-2021
-
           4. ¿Qué puesto de Felicidad tiene el país con mayor GDP del 2020?
           R: Ireland, GDP: 11.323  para 2020, puesto 13 en el ranking de nivel de felicidad
-
           5. ¿En que porcentaje a variado a nivel mundial el GDP promedio del 2020 respecto al 2021? ¿Aumentó o disminuyó?
           R: 0.68%. El GDP promedio aumento del 2020 al 2021.
-
           6. ¿Cuál es el país con mayor expectativa de vide (“Healthy life expectancy at birth”)? Y ¿Cuánto tenia en ese indicador en el 2019?
           R: Singapore, indicador (2019) = 77.1
 
