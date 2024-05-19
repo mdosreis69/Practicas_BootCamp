@@ -6,13 +6,19 @@ La metodologia a seguir es la siguiente:
 1. Carga de datos y filtrado inicial por la ciudad de Madrid
 2. Preparación de datos: División train/test
 3. Análisis exploratorio
+   
   a. Funciones pandas, histogramas, etc.
   b. Revisión de Outliers
   c. Correlación
-4. Preprocesamiento:
+
+5. Preprocesamiento:
+
   a. Eliminación de variables, seleccion de caracteristicas, analisis de alta correlación, imputacion y transformacion de variables, etc.
   b. Generación de variables
-5. Modelado:
+
+6. Modelado:
+
    a. Cross validation
    b. Evaluación de varios modelos: comparación de métricas y resultados.
-6. Conclusión: Que modelo es el mejor
+
+7. Conclusión: Que modelo es el mejor
