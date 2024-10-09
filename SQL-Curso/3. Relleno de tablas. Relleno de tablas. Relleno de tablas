@@ -1,0 +1,33 @@
+USE SPRINGFIELD;
+
+/* Insertamos un registro en la tabla FAMILIAS con NOW */
+
+/*INSERT INTO FAMILIAS VALUES (1, 'SIMPSONS', NOW(),NOW());*/
+
+/* Insertamos un registro en la tabla FAMILIAS con SYSDATE */
+
+/*INSERT INTO FAMILIAS VALUES (2, 'BOUVIER', SYSDATE(),SYSDATE());*/
+
+/* Insertamos un registro en la tabla FAMILIAS especificando todos los campos */
+
+/*INSERT INTO FAMILIAS (ID_FAMILIA, DESC_FAMILIA, FECHA_INSERT, FECHA_MODIFICACION) VALUES (3, 'FLANDERS', NOW(), NOW());*/
+
+/* Insertamos un registro en la tabla FAMILIAS especificando algunos campos */
+
+/*INSERT INTO FAMILIAS (ID_FAMILIA, DESC_FAMILIA, FECHA_INSERT) VALUES (4, 'WIGGUM', NOW());*/
+
+/* Borramos de la tabla FAMILIAS el ID_FAMILIA 4 */
+
+/*DELETE FROM FAMILIAS WHERE ID_FAMILIA=4;*/
+
+/* Afianzamos los INSERT/DELETES */
+
+/*COMMIT;*/
+
+/*Truncamos la tabla FAMILIAS */
+
+/* TRUNCATE TABLE FAMILIAS; */
+
+/*Vemos el contenido de la tabla FAMILIAS */
+
+/* SELECT * FROM FAMILIAS; */
