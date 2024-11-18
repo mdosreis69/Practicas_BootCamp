@@ -73,4 +73,4 @@
   iii.	Recibe una imagen en formato .png y genera un texto relacionado
   
 
-**There is a talent after 50 !**
+**MDR**
