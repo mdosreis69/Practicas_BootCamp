@@ -71,5 +71,6 @@
   ii.	Análisis de Sentimiento: recibe el texto con la opinión del cliente y clasifica si es positiva o negativa.
   
   iii.	Recibe una imagen en formato .png y genera un texto relacionado
+  
 
-**There is a Talent after 50**
+**There is a Talent after 50 !**
