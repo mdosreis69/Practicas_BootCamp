@@ -9,7 +9,7 @@
 
 ## 2)	Modelado de datos (diagramas entidad-relación), ETL y gestión de base de datos estructurados. 
 
-  a.	Práctica con Bigquery (GPC) y datos asociados a llamadas de IVR dentro de una Telco, con el objetivo de extraer información relevante del cliente mediante la creación de tablas y consultas con Postgres. 
+  a.	Práctica con Bigquery (GCP) y datos asociados a llamadas de IVR dentro de una Telco, con el objetivo de extraer información relevante del cliente mediante la creación de tablas y consultas con Postgres. 
 
 
 ## 3)	Big Data Processing utilizando la nube de Azure. 
